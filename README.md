@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRUDHUNANDHAN
-- 👀 I’m interested in pyhton
+- 👀 I’m interested in python
 - 🌱 I’m currently learning electrical and electronics engeneering
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me -->msg
